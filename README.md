@@ -27,8 +27,8 @@ and b <= m for b in A when b is a lower bound of X.
 
 ## Definition 1.7
 
-Let A be a P space. Let a, b in A. We say a and b are join equivalent and write a ~ b iff for all subsets Y of A 
-we have join(X, a) = join(Y, b).
+Let A be a P space. Let a, b in A. We say a and b are join equivalent and write a ~ b iff for all subsets X of A 
+we have join(X, a) = join(X, b).
 
 ## Lemma 1.8
 
